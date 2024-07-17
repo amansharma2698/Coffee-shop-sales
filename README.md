@@ -1,0 +1,1 @@
+This is the coffee shop sales data from maven analytics that I used to draw valuable inside and create a dashboard for a quick view through the use of power query, power pivot, and slicers to make it dynamic.
